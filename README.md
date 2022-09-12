@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+##Blockrider
+A next.js application that prototypes a ride sharing application which users can choose their destinations and ride types which can be paid by cryptocurrency. A Metamask wallet connnection can be established which users can pay the calculated price for their ride.
+
 ## Getting Started
 
 First, run the development server:
